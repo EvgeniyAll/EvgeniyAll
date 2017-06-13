@@ -1,10 +1,10 @@
 body {
  margin: 0 auto; /*Âíåøíèé îòñòòóï*/
- pading: 0; /*Âíóòðåííèé îòñòóï*/
+ padding: 0; /*Âíóòðåííèé îòñòóï*/
  width: 940px; /*øèðèíà êîíòåíòà*/
 }
 
 p {
- border: 20px solid crimson;
+ border: 2px solid crimson;
 
 }
