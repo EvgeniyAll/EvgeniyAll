@@ -73,8 +73,9 @@ body, p, h1 {
 
 
 .footer {
-    /*background-color: red;*/
-    /*padding: 10px;*/
+   position: absolute;
+   bottom: 0;
+   width: 100%;
 }
 
 .footer-text h1 {
