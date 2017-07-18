@@ -21,12 +21,10 @@ body, p, h1 {
 
     /*Минимальвая высота*/
     /*min-height: 50px; */
-    
-    
 }
 
 
-.header, .footer {
+.header {
     background-color: rgb(231,230,230);
     padding: 10px;
 }
@@ -73,12 +71,16 @@ body, p, h1 {
 
 
 .footer {
+	/*padding: 10px;*/
    position: absolute;
-   bottom: 0;
+   bottom: 0px;
    width: 100%;
+   background-color: rgb(231,230,230);
+   
 }
 
 .footer-text h1 {
+	margin: 10px; 
     padding: 10px;
     font-size: 60px;
     text-align: center;
